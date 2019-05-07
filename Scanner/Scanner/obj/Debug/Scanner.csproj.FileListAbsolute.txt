@@ -1,0 +1,7 @@
+D:\Projects\C#\Scanner\Scanner\bin\Debug\Scanner.exe.config
+D:\Projects\C#\Scanner\Scanner\bin\Debug\Scanner.exe
+D:\Projects\C#\Scanner\Scanner\bin\Debug\Scanner.pdb
+D:\Projects\C#\Scanner\Scanner\obj\Debug\Scanner.csprojAssemblyReference.cache
+D:\Projects\C#\Scanner\Scanner\obj\Debug\Scanner.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Scanner\Scanner\obj\Debug\Scanner.exe
+D:\Projects\C#\Scanner\Scanner\obj\Debug\Scanner.pdb
